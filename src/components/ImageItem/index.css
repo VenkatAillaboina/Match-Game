@@ -1,0 +1,10 @@
+.image-item-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.thumbnail {
+  width: 100px;
+}
